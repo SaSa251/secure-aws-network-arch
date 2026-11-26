@@ -4,13 +4,13 @@ A 4-week hands-on project that designs, builds, secures and monitors a multi-lay
 
 ## Team
 
-| Name | Role | GitHub |
-|------|------|--------|
-| Mustafa | _e.g. Week 1 lead_ | [@username](https://github.com/username) |
-| Member 2 | _role_ | [@username](https://github.com/username) |
-| Member 3 | _role_ | [@username](https://github.com/username) |
-| Member 4 | _role_ | [@username](https://github.com/username) |
-| Member 5 | _role_ | [@username](https://github.com/username) |
+| Name | Role |
+|------|------|
+| Mustafa | Project Lead, Week 1: VPC Core Architecture |
+| Omar Assaf | Week 2: Advanced Connectivity & Hybrid Networking |
+| Muhammad Haliem | Week 3: Edge Security, WAF, DDoS & Content Delivery |
+| Abdullah Abdelrehim | Week 4: Network Monitoring, Detection & IR |
+| Basheer Tariq | Documentation, Architecture Diagrams & Final Report |
 
 ## Project Overview
 
